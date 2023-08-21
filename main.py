@@ -14,7 +14,7 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print("test1")
-
+    print("test1....................................")
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
 #@
 ##11111111
